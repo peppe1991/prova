@@ -4,6 +4,7 @@
    </head>
    <body>
       <?php
+      /*ciao sto modificando*/ 
        $a ="Pippo";
        $b = "Pluto";
        $c="Paperino";
